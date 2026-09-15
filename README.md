@@ -1,6 +1,7 @@
 # FAULT LINE
 
-> You don't have to look okay here.
+> You don't have to look okay here. 
+
 
 A confessional social platform: Swiss editorial grid × retro pixel art ×
 underground internet culture. Built with Next.js 14 (App Router) +
